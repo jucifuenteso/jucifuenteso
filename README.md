@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Diego Cifuentes Oliva 👋
+#  Juan Diego Cifuentes Oliva 
 
 Estudiante de **Ingeniería Física** (último semestre) en la Universidad Nacional de Colombia — Sede Medellín, con formación integral en electrónica, sistemas embebidos, instrumentación, ciencia de datos y machine learning. Me interesa el trabajo experimental e interdisciplinar: desde el diseño de firmware y la integración de sensores, hasta el análisis de datos y el despliegue de modelos en la nube.
 
