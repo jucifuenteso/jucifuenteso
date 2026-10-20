@@ -1,8 +1,7 @@
 #  Juan Diego Cifuentes Oliva 
 
-Estudiante de **Ingeniería Física** (último semestre) en la Universidad Nacional de Colombia — Sede Medellín, con formación integral en electrónica, sistemas embebidos, instrumentación, ciencia de datos y machine learning. Me interesa el trabajo experimental e interdisciplinar: desde el diseño de firmware y la integración de sensores, hasta el análisis de datos y el despliegue de modelos en la nube.
 
-- 🔭 Cursando actualmente una asignatura de posgrado en **Machine Learning**.
+
 - ⚡ Trabajo en proyectos que conectan **hardware y software**: microcontroladores (STM32, ESP32, Arduino), instrumentación electrónica, y su comunicación con interfaces de escritorio y plataformas en la nube.
 - 📊 También desarrollo proyectos de **análisis de datos y ML** en Python.
 - 🌐 Tengo dos cuentas de GitHub: esta es mi cuenta **personal**; mi cuenta **institucional** es [@CIFUENTESJUAN](https://github.com/CIFUENTESJUAN).
